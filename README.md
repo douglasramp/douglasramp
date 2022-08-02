@@ -16,7 +16,7 @@
 ##
 
 <div> 
-  <a href="https://https://https://www.youtube.com/channel/UCPeU1o1HhbrzAM1jm0-gPLg" target="_blank"><img src="https://img.shields.io/badge/YouTube-7B68EE?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://https://https://www.youtube.com/UCPeU1o1HhbrzAM1jm0-gPLg" target="_blank"><img src="https://img.shields.io/badge/YouTube-7B68EE?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/odouglassegatto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-7B68EE?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mail.segattodouglas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-7B68EE?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/douglassegatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
